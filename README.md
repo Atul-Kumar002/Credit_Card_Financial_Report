@@ -26,5 +26,5 @@ This repository hosts a **Power BI dashboard** designed to analyze credit card t
 - **Weekly spending trends** by customer segment
 - **Top spending categories** (e.g., restaurants, travel)
 - **Demographic breakdowns**: age groups, regions, credit tiers
-- **Transaction frequency** vs. average transaction value.g., MIT, if applicable. Otherwise, note “All rights reserved.”)*
+- **Transaction frequency** vs. average transaction value
 
